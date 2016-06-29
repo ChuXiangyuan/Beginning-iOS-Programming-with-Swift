@@ -13,14 +13,14 @@
 
 - Hello World - 很简单，界面上有个button，点击后弹出一条消息。同时界面上的button和label元素实现Auto Layout。通过这个小程序，初步了解在Xcode中创建项目的方法，了解简单的View和Controler的创建方法和关系，了解了Auto Layout的基本方法。
 
-![-c](http://o6lwrrweh.bkt.clouddn.com/2016-06-29-1.png)
+![-c](ScreenShot/1.png)
 
 
 - StackViewDemo - 学习利用Stack View进行Auto Layout，进一步了解Auto Layout的方法，了解在不同设备上响应式布局的方法。
 
-![-c](http://o6lwrrweh.bkt.clouddn.com/2016-06-29-2.png)
+![-c](ScreenShot/2.png)
 
-![-c](http://o6lwrrweh.bkt.clouddn.com/2016-06-29-3.png)
+![-c](ScreenShot/3.png)
 
 ###------不断更新中------
 
